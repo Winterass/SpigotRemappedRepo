@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 18 16:35:40 CEST 2023
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1697639739162
+https\://jitpack.io/.error=
+https\://repo.papermc.io/repository/maven-public/.lastUpdated=1697639739262
+https\://jitpack.io/.lastUpdated=1697639739528
+https\://repo.dmulloy2.net/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1697639739393
+https\://repo.papermc.io/repository/maven-public/.error=
+https\://repo.dmulloy2.net/content/groups/public/.lastUpdated=1697639740111

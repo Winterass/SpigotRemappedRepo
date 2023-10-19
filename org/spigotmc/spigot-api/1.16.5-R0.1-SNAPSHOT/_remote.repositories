@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 23 20:52:44 CEST 2022
+spigot-api-1.16.5-R0.1-20210611.041013-99.pom>spigotmc-repo=
+spigot-api-1.16.5-R0.1-20210611.041013-99-javadoc.jar>spigotmc-repo=
+spigot-api-1.16.5-R0.1-20210611.041013-99-sources.jar>spigotmc-repo=
+spigot-api-1.16.5-R0.1-SNAPSHOT.pom>=
+spigot-api-1.16.5-R0.1-SNAPSHOT.jar>=
+spigot-api-1.16.5-R0.1-SNAPSHOT-shaded.jar>=
+spigot-api-1.16.5-R0.1-20210611.041013-99.jar>spigotmc-repo=

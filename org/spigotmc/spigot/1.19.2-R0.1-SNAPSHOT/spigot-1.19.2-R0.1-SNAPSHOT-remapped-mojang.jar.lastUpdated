@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 07 09:51:19 CET 2023
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=Could not transfer artifact org.spigotmc\:spigot\:jar\:remapped-mojang\:1.19.2-R0.1-SNAPSHOT from/to spigotmc-repo (https\://hub.spigotmc.org/nexus/content/repositories/snapshots/)\: transfer failed for https\://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot/1.19.2-R0.1-SNAPSHOT/spigot-1.19.2-R0.1-SNAPSHOT-remapped-mojang.jar
+@default-papermc-repo-https\://repo.papermc.io/repository/maven-public/.lastUpdated=1675759879733
+@default-sonatype-https\://oss.sonatype.org/content/groups/public/.lastUpdated=1675759879741
+https\://oss.sonatype.org/content/groups/public/.error=Could not transfer artifact org.spigotmc\:spigot\:jar\:remapped-mojang\:1.19.2-R0.1-SNAPSHOT from/to sonatype (https\://oss.sonatype.org/content/groups/public/)\: transfer failed for https\://oss.sonatype.org/content/groups/public/org/spigotmc/spigot/1.19.2-R0.1-SNAPSHOT/spigot-1.19.2-R0.1-SNAPSHOT-remapped-mojang.jar
+https\://repo.papermc.io/repository/maven-public/.error=Could not transfer artifact org.spigotmc\:spigot\:jar\:remapped-mojang\:1.19.2-R0.1-SNAPSHOT from/to papermc-repo (https\://repo.papermc.io/repository/maven-public/)\: transfer failed for https\://repo.papermc.io/repository/maven-public/org/spigotmc/spigot/1.19.2-R0.1-SNAPSHOT/spigot-1.19.2-R0.1-SNAPSHOT-remapped-mojang.jar
+@default-spigotmc-repo-https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1675759879737

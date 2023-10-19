@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 01 21:20:34 CEST 2023
+spigot-1.19.4-R0.1-20230321.163221-1.pom>dmulloy2-repo=
+spigot-1.19.4-R0.1-SNAPSHOT-remapped-mojang.jar>=
+spigot-1.19.4-R0.1-SNAPSHOT-remapped-obf.jar>=
+spigot-1.19.4-R0.1-SNAPSHOT.jar>=
+spigot-1.19.4-R0.1-SNAPSHOT.pom>=
